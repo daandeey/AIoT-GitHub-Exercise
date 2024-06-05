@@ -1,3 +1,3 @@
-myName = "Ahmad Hamra"
+myName = "Wijayanti"
 
-print(f"Hello World! I'm {myName}")
+print(f"Hello World! I'm {myName}")CDCD
