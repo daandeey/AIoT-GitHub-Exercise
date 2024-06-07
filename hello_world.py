@@ -1,1 +1,3 @@
-print ("hello world")
+myName = "Fayrus kaindra"
+
+print(f"Hello World! I'm {myName}")
