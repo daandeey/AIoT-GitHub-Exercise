@@ -1,2 +1,3 @@
 myName = "nisa"
-print(f"nama saya {myName}")
+tim = "perseverance"
+print(f"nama saya {myName} dari tim {tim}")
